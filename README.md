@@ -46,7 +46,6 @@ Wesley - Arduino & Python codes for storage, warehouse, and order stations, hard
 Moses - System integration ideas, JSON structuring, Tkinter visualizations, debugging, report writing
 
 📌 Getting Started
-- Clone the repo.
 - Flash ESP32 boards with Arduino codes for each station.
 - Run Python scripts on Raspberry Pi for QR scanning and dashboard.
 - Set up MQTT broker and MySQL database.
