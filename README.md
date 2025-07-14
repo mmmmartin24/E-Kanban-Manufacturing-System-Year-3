@@ -1,3 +1,5 @@
+📦 Digital Kanban Manufacturing System
+
 📄 Overview
 This project implements a Smart Digital Kanban System using IoT technologies for a manufacturing environment. The system automates order tracking, material handling, storage, assembly, and quality control using QR Codes, RFID, ESP32 microcontrollers, Raspberry Pi, MQTT protocol, and a Node-RED dashboard with a MySQL database. This system has also passed the live demo test by the class lecturer.
 
